@@ -14,8 +14,7 @@ A full-stack rental management solution that uses AI to bridge the gap between o
 * **Frontend:** Tailwind CSS, JavaScript.
 * **Specialty:** High-level mathematical equations for AI logic flow.
 
-## 📸 Screenshots
-![AI Chatbot Demo](<img width="595" height="731" alt="image" src="https://github.com/user-attachments/assets/1c6d8f4e-1c5b-4e5b-9280-5535039cf361" />
+## 📸 Screenshots![AI Chatbot](Screenshots/chatbox.png)
 
 ## 🧠 Logic Highlight: AI Calculation
 I utilized critical thinking to solve for $f(x)$ variables in the reminder system:
